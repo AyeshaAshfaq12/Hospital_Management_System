@@ -53,7 +53,7 @@ End-Users of Hospital Management System are:
 <p align="justify">
 You can watch the working flow and execution of the project on my Youtube Channel, video link given <br>
 
-[Video Link](https://youtu.be/Iy3KJVIFLmM) <br>
+[Video Link](https://youtu.be/Iy3KJVIFLmM)
 
 </p>
 

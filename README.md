@@ -1,5 +1,4 @@
-# Hospital_Management_System
-It is a c++ based management system whose main purpose id to manage the client sides along with the related doctors and medications data. Generally speaking it is a final term prject for my CS degree
+
 <!---------------------------------------------------------!>
 <h1 align="center">
   Hospital Management System
@@ -15,7 +14,52 @@ Its basic aim is to provide a paper-less hospital up to 90%.
 It helps in processing and management of hospital information not only inside the boundary but also beyond the hospital boundary. Admin can store all the information related to staff and patients in an effective way.
 It helps in solving the complications from managing all the paper work of hospital with confidentiality. It also provides the facility to manage all the paper-work in one place, reducing the work of staff in arranging and analyzing the paper-work.
 Hospital Management System brings together all the information and processes of a hospital, in a single platform.
-
 </p>
 <br>
 <!-- ................................................................................................................................. -->
+
+### Advantages
+
+<br>
+The advantages of HMS can be pinpointed to the following:
+
+-	Time-saving Technology
+-	Improved Efficiency by avoiding human errors
+-	Reduces scope for Error
+-	Data security and correct data retrieval made possible
+-	Cost effective and easily manageable
+-	Easy access to patient data
+-	Improved patient care made possible
+-	Reduces the work of documentation
+-	Can store information in an effective manner.
+<br>
+
+<!-- ................................................................................................................................. -->
+
+### End-Users
+<br>
+
+End-Users of Hospital Management System are:
+- Admin
+- Doctor 
+- Patient
+<!-- ................................................................................................................................. -->
+
+
+### Video
+<p align="justify">
+You can watch the working flow and execution of the project on my Youtube Channel, video link given <br>
+
+[Video Link](https://youtu.be/Iy3KJVIFLmM) <br>
+
+</p>
+
+<br>
+<!-- ................................................................................................................................. -->
+
+### GUI
+<br>
+
+<!-- ................................................................................................................................. -->
+
+

@@ -62,8 +62,16 @@ You can watch the working flow and execution of the project on my Youtube Channe
 <!-- ................................................................................................................................. -->
 
 ### GUI
+Some GUI images of HMS
 <br>
-
+<img src = "/img/hms4.png">
+<br>
+<img src = "/img/hms1.png">
+<br>
+<img src = "/img/hms2.png">
+<br>
+<img src = "/img/hms3.png">
+<br>
 <!-- ................................................................................................................................. -->
 
 

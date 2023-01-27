@@ -1,0 +1,6 @@
+patient1,monday,1:00pm
+patient4,sunday,7:00pm
+patient2,wednesday,6:00pm
+patient7,friday,5:00pm
+patient3,saturday,3:00pm
+patient5,monday,4:00pm

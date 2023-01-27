@@ -1,0 +1,13 @@
+patient1,Laiba,18,Depression,Panadol,Gulberg,02327439876
+patient2,Aleeza,23,Fever,Priton,Samnabad,03827639876
+patient3,Ali,75,Diabates,Zestril,Awan Town,07621439876
+patient4,Sameer,13,Cough,Disprin,Model Town,09876439876
+patient5,Shahnawaz,53,Flue,Panadol,Kashmir,01232439876
+patient6,Kainat,57,BloodPressure,Diamacron,Johar Town,09875479876
+patient7,Maaz,32,Cough,Brufen,Peshawer,06524875432
+patient8,Saba,56,Cancer,Sadins,Sialkot,05427439876
+patient9,Shaheer,23,Fever,Serum,Quetta,05642439876
+patient10,Usama,65,Fever,anadol,qbal Town,03875341286
+patient11,Sara,53,Cough,riton,amnabad,03241564325
+patient12,Yaqub,54,Fever,anadol,ohar Town,03276543281
+patient21,Ali,43,Fever,anadol,ulberg,09876543212

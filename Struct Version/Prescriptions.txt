@@ -1,0 +1,9 @@
+patient1,Exercise regularly
+patient2,Take Vitamin C
+patient3,Eat Vegetables
+patient4,Take Suupliments
+patient5,Don't eat Meat
+patient6,Eat seafood
+patient11,Do Exercise daily
+patient15,Eat fruits daily
+patient21,Eat more fruits

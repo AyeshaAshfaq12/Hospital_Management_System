@@ -1,0 +1,11 @@
+patient1,CB16,Positive
+patient2,Covid19,Positive
+patient3,Dengue,Negative
+patient4,Malaria,Negative
+patient5,Diarheoa,Positive
+patient6,Covid19,Negative
+patient10,Covid19,Positive
+patient11,Covid19,Positive
+patient12,Covid19,Negative
+patient13,CB16,Positive
+patient4,Dengue,Positive
